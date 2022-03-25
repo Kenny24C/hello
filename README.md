@@ -3,7 +3,7 @@
  - Currently learning Java and Arduino
  - Keyboard enthusiast
  -  ~~noob speed typist~~
-# Experiences
+:skull: # Experiences :skull:
 Python Projects
  - Tic Tac Toe
  - War (card game)
